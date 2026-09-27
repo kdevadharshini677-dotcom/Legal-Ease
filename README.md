@@ -19,3 +19,42 @@ The system collects the user's requirements and uses Generative AI to generate a
 
 ### Expected Outcome
 A simple and user-friendly AI-based application that helps users generate legal document drafts efficiently.
+## Phase 2 – Requirement Analysis
+
+### Functional Requirements
+
+1. The system should allow users to enter their legal document requirements.
+2. The system should understand the information provided by the user.
+3. The system should generate a relevant legal document draft using Generative AI.
+4. The system should display the generated document clearly.
+5. The user should be able to review the generated document.
+
+### Non-Functional Requirements
+
+1. The application should be easy to use.
+2. The system should provide responses within a reasonable time.
+3. The application should have a simple and user-friendly interface.
+4. User input should be handled securely.
+
+### Hardware Requirements
+
+- Computer or smartphone
+- Internet connection
+
+### Software Requirements
+
+- Web browser
+- Development environment
+- Generative AI / Gemini API
+- GitHub
+
+### Target Users
+
+The project is intended for users who need assistance in creating simple legal document drafts.
+
+### Expected Benefits
+
+- Saves time in preparing simple legal document drafts.
+- Reduces manual effort.
+- Provides an easy-to-use interface.
+- Helps users generate documents based on their requirements.
