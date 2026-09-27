@@ -167,3 +167,37 @@ The project will be developed by the selected team members according to the assi
 - Check whether the generated document matches the user requirements.
 - Test the application with different user inputs.
 - Fix errors found during testing.
+## Phase 7 – Project Documentation
+
+### Project Overview
+
+LegalEase is an AI-powered legal document generator designed to help users create simple legal document drafts based on their requirements.
+
+### Project Features
+
+- User-friendly interface
+- Legal document type selection
+- User requirement input
+- AI-based document generation
+- Generated document display
+
+### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Generative AI / AI API
+- GitHub
+
+### Documentation
+
+The project documentation includes the problem statement, requirements, system design, development process, testing process and project outcomes.
+
+### User Guidance
+
+Users can select a document type, provide the required information and generate a legal document draft using the application.
+
+### Disclaimer
+
+The generated documents are drafts for informational purposes and should be reviewed by a qualified legal professional before use.
