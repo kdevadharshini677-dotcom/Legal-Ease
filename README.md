@@ -157,3 +157,13 @@ The project will be developed by the selected team members according to the assi
 4. Connect the application with the AI service.
 5. Generate legal document drafts based on user requirements.
 6. Display the generated document to the user.
+## Phase 6 – Testing
+
+### Testing Plan
+
+- Test document type selection.
+- Test user input fields.
+- Test AI-based document generation.
+- Check whether the generated document matches the user requirements.
+- Test the application with different user inputs.
+- Fix errors found during testing.
