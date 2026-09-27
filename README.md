@@ -140,3 +140,20 @@ The project will be developed by the selected team members according to the assi
 - Phase 6: Project Testing
 - Phase 7: Project Documentation
 - Phase 8: Project Demonstration
+## Phase 5 – Development
+
+### Technology Stack
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- Generative AI: AI API
+- Document Generation: AI-based document drafting
+
+### Development Plan
+
+1. Create the user interface.
+2. Add document type selection.
+3. Add user input fields.
+4. Connect the application with the AI service.
+5. Generate legal document drafts based on user requirements.
+6. Display the generated document to the user.
