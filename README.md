@@ -58,3 +58,43 @@ The project is intended for users who need assistance in creating simple legal d
 - Reduces manual effort.
 - Provides an easy-to-use interface.
 - Helps users generate documents based on their requirements.
+## Phase 3 – Project Design
+
+### System Design
+
+LegalEase will have a simple user interface where users can enter their requirements and select the type of legal document they want to generate.
+
+### User Flow
+
+1. User opens the LegalEase application.
+2. User selects the required document type.
+3. User enters the necessary information.
+4. The system processes the user input using Generative AI.
+5. The AI generates a legal document draft.
+6. The generated document is displayed to the user.
+7. User reviews the generated document.
+
+### Main Components
+
+- User Interface
+- User Input Form
+- Generative AI / Gemini API
+- Document Generation Module
+- Generated Document Display
+
+### Basic System Flow
+
+User → Input Form → Generative AI → Document Generation → Final Document
+
+### User Interface Design
+
+The application will contain:
+- Project title and introduction
+- Document type selection
+- User input fields
+- Generate Document button
+- Generated document display area
+
+### Design Goal
+
+The design focuses on simplicity, usability and clear presentation of the generated legal document.
