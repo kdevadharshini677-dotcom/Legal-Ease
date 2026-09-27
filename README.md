@@ -201,3 +201,30 @@ Users can select a document type, provide the required information and generate 
 ### Disclaimer
 
 The generated documents are drafts for informational purposes and should be reviewed by a qualified legal professional before use.
+## Phase 8 – Project Demonstration
+
+### Project Demonstration
+
+The LegalEase project will be demonstrated by showing the complete application workflow.
+
+### Demonstration Steps
+
+1. Open the LegalEase application.
+2. Show the project interface.
+3. Select the required legal document type.
+4. Enter the required information.
+5. Generate the legal document using Generative AI.
+6. Display the generated document.
+7. Explain the main features and working process.
+
+### Demo Video
+
+A project demonstration video will be prepared and uploaded to Google Drive.
+
+### Project Outcome
+
+LegalEase demonstrates how Generative AI can be used to generate simple legal document drafts based on user requirements.
+
+### Conclusion
+
+The project provides a simple approach for generating legal document drafts using Generative AI and helps reduce the manual effort involved in preparing such drafts.
